@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE librerias SYSTEM "Libro.dtd">
-<librerias>
+<!DOCTYPE libreria SYSTEM "Libro.dtd">
+<libreria>
     <libro id="1">
         <Autor>
             <Nombre>Gabriel García Márquez</Nombre>
@@ -120,4 +120,4 @@
         <Titulo>El alquimista</Titulo>
         <Fecha>1988-05-01</Fecha>
     </libro>
-</librerias>
+</libreria>
