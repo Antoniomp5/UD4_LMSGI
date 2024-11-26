@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT librerias (libro)>
+<!ELEMENT libreria (libro)>
 <!ELEMENT libro (Autor, Editorial, ISBM, lGenero, Titulo, Fecha)>
 <!ATTLIST libro id CDATA #REQUIRED>
 <!ELEMENT Autor (Nombre, sGenero)>
