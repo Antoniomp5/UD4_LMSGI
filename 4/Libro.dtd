@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT librerias (libro)>
+<!ELEMENT libro (Autor, Editorial, ISBM, lGenero, Titulo, Fecha)>
+<!ATTLIST libro id CDATA #REQUIRED>
+<!ELEMENT Autor (Nombre, sGenero)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT sGenero (#PCDATA)>
+<!ELEMENT Editorial (#PCDATA)>
+<!ELEMENT ISBM (#PCDATA)>
+<!ELEMENT lGenero (#PCDATA)>
+<!ELEMENT Titulo (#PCDATA)>
+<!ELEMENT Fecha (#PCDATA)>

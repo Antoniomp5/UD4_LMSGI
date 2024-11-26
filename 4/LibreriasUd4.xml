@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE librerias SYSTEM "Libro.dtd">
+<librerias>
+    <libro id="1">
+        <Autor>
+            <Nombre>Gabriel García Márquez</Nombre>
+            <sGenero>Realismo mágico</sGenero>
+        </Autor>
+        <Editorial>Editorial Sudamericana</Editorial>
+        <ISBM>978-3-16-148410-0</ISBM>
+        <lGenero>Novela</lGenero>
+        <Titulo>Cien años de soledad</Titulo>
+        <Fecha>1967-06-05</Fecha>
+    </libro>
+
+    <libro id="2">
+        <Autor>
+            <Nombre>J.K. Rowling</Nombre>
+            <sGenero>Fantasía</sGenero>
+        </Autor>
+        <Editorial>Salamandra</Editorial>
+        <ISBM>978-0-7432-8800-0</ISBM>
+        <lGenero>Novela</lGenero>
+        <Titulo>Harry Potter y la piedra filosofal</Titulo>
+        <Fecha>1997-06-26</Fecha>
+    </libro>
+
+    <libro id="3">
+        <Autor>
+            <Nombre>J.R.R. Tolkien</Nombre>
+            <sGenero>Fantasía</sGenero>
+        </Autor>
+        <Editorial>Minotauro</Editorial>
+        <ISBM>978-84-450-7880-1</ISBM>
+        <lGenero>Novela</lGenero>
+        <Titulo>El señor de los anillos: La comunidad del anillo</Titulo>
+        <Fecha>1954-07-29</Fecha>
+    </libro>
+
+    <libro id="4">
+        <Autor>
+            <Nombre>Haruki Murakami</Nombre>
+            <sGenero>Contemporáneo</sGenero>
+        </Autor>
+        <Editorial>Editorial Anagrama</Editorial>
+        <ISBM>978-84-339-9415-9</ISBM>
+        <lGenero>Novela</lGenero>
+        <Titulo>1Q84</Titulo>
+        <Fecha>2009-05-29</Fecha>
+    </libro>
+
+    <libro id="5">
+        <Autor>
+            <Nombre>F. Scott Fitzgerald</Nombre>
+            <sGenero>Novela de época</sGenero>
+        </Autor>
+        <Editorial>Editorial Mondadori</Editorial>
+        <ISBM>978-0-7432-7356-3</ISBM>
+        <lGenero>Novela</lGenero>
+        <Titulo>El gran Gatsby</Titulo>
+        <Fecha>1925-04-10</Fecha>
+    </libro>
+
+    <libro id="6">
+        <Autor>
+            <Nombre>George Orwell</Nombre>
+            <sGenero>Distopia</sGenero>
+        </Autor>
+        <Editorial>Editorial Planeta</Editorial>
+        <ISBM>978-0-452-28423-4</ISBM>
+        <lGenero>Novela</lGenero>
+        <Titulo>1984</Titulo>
+        <Fecha>1949-06-08</Fecha>
+    </libro>
+
+    <libro id="7">
+        <Autor>
+            <Nombre>Isaac Asimov</Nombre>
+            <sGenero>Ciencia ficción</sGenero>
+        </Autor>
+        <Editorial>Editorial Minotauro</Editorial>
+        <ISBM>978-0-553-80371-0</ISBM>
+        <lGenero>Ciencia ficción</lGenero>
+        <Titulo>Fundación</Titulo>
+        <Fecha>1951-06-01</Fecha>
+    </libro>
+
+    <libro id="8">
+        <Autor>
+            <Nombre>Margaret Atwood</Nombre>
+            <sGenero>Distopia</sGenero>
+        </Autor>
+        <Editorial>Ediciones Salamandra</Editorial>
+        <ISBM>978-0-385-49793-7</ISBM>
+        <lGenero>Novela</lGenero>
+        <Titulo>El cuento de la criada</Titulo>
+        <Fecha>1985-08-01</Fecha>
+    </libro>
+
+    <libro id="9">
+        <Autor>
+            <Nombre>Mario Vargas Llosa</Nombre>
+            <sGenero>Realismo social</sGenero>
+        </Autor>
+        <Editorial>Editorial Seix Barral</Editorial>
+        <ISBM>978-0-15-602978-2</ISBM>
+        <lGenero>Novela</lGenero>
+        <Titulo>La ciudad y los perros</Titulo>
+        <Fecha>1963-01-01</Fecha>
+    </libro>
+
+    <libro id="10">
+        <Autor>
+            <Nombre>Paulo Coelho</Nombre>
+            <sGenero>Ficción</sGenero>
+        </Autor>
+        <Editorial>Ediciones Planeta</Editorial>
+        <ISBM>978-0-06-112241-5</ISBM>
+        <lGenero>Novela</lGenero>
+        <Titulo>El alquimista</Titulo>
+        <Fecha>1988-05-01</Fecha>
+    </libro>
+</librerias>

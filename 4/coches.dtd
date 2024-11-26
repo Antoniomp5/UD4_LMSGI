@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Concesionario (coche)>
+<!ELEMENT coche (marca, modelo, matricula, potencia, plazas, nºpuertas)>
+<!ATTLIST coche id CDATA #REQUIRED>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT potencia (#PCDATA)>
+<!ELEMENT plazas (#PCDATA)>
+<!ELEMENT nºpuertas (#PCDATA)>
