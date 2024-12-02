@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT clientes (cliente)>
+<!ELEMENT sede (#PCDATA)>
+<!ATTLIST sede id CDATA #REQUIRED>
+<!ELEMENT empleado (#PCDATA)
+<!ELEMENT fecha (#PCDATA)
+<!ELEMENT cliente (#PCDATA)>
+<!ATTLIST cliente id CDATA #REQUIRED>
+<!ELEMENT vivienda (#PCDATA)>
+<!ATTLIST vivienda id CDATA #REQUIRED>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT coste (#PCDATA)>
+<!ELEMENT resumen (#PCDATA)>
+<!ELEMENT plazo (#PCDATA)>

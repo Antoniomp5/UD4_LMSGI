@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE clientes SYSTEM "Clientes.dtd">
+<clientes>
+    <sede id="1">
+        <empleado></empleado>
+        <cliente codigo="">
+            <fecha>Gabriel García Márquez</fecha>
+            <descripcion>978-3-16-148410-0</descripcion>
+            <numero>Novela</numero>
+        </cliente>
+        <vivienda id= "">
+            <coste>Cien años de soledad</coste>
+            <resumen>1967-06-05</resumen>
+            <plazo>1967-06-05</plazo>
+        </vivienda>
+    </sede>
+
+    <sede id="1">
+        <empleado></empleado>
+        <cliente codigo="">
+            <fecha>Gabriel García Márquez</fecha>
+            <descripcion>978-3-16-148410-0</descripcion>
+            <numero>Novela</numero>
+        </cliente>
+        <vivienda id= "">
+            <coste>Cien años de soledad</coste>
+            <resumen>1967-06-05</resumen>
+            <plazo>1967-06-05</plazo>
+        </vivienda>
+    </sede>
+
+
+    <sede id="1">
+        <empleado></empleado>
+        <cliente codigo="">
+            <fecha>Gabriel García Márquez</fecha>
+            <descripcion>978-3-16-148410-0</descripcion>
+            <numero>Novela</numero>
+        </cliente>
+        <vivienda id= "">
+            <coste>Cien años de soledad</coste>
+            <resumen>1967-06-05</resumen>
+            <plazo>1967-06-05</plazo>
+        </vivienda>
+    </sede>
+
+
+    <sede id="1">
+        <empleado></empleado>
+        <cliente codigo="">
+            <fecha>Gabriel García Márquez</fecha>
+            <descripcion>978-3-16-148410-0</descripcion>
+            <numero>Novela</numero>
+        </cliente>
+        <vivienda id= "">
+            <coste>Cien años de soledad</coste>
+            <resumen>1967-06-05</resumen>
+            <plazo>1967-06-05</plazo>
+        </vivienda>
+    </sede>
+
+
+    <sede id="1">
+        <empleado></empleado>
+        <cliente codigo="">
+            <fecha>Gabriel García Márquez</fecha>
+            <descripcion>978-3-16-148410-0</descripcion>
+            <numero>Novela</numero>
+        </cliente>
+        <vivienda id= "">
+            <coste>Cien años de soledad</coste>
+            <resumen>1967-06-05</resumen>
+            <plazo>1967-06-05</plazo>
+        </vivienda>
+    </sede>
+
+    <sede id="1">
+        <empleado></empleado>
+        <cliente codigo="">
+            <fecha>Gabriel García Márquez</fecha>
+            <descripcion>978-3-16-148410-0</descripcion>
+            <numero>Novela</numero>
+        </cliente>
+        <vivienda id= "">
+            <coste>Cien años de soledad</coste>
+            <resumen>1967-06-05</resumen>
+            <plazo>1967-06-05</plazo>
+        </vivienda>
+    </sede>
+
+
+    <sede id="1">
+        <empleado></empleado>
+        <cliente codigo="">
+            <fecha>Gabriel García Márquez</fecha>
+            <descripcion>978-3-16-148410-0</descripcion>
+            <numero>Novela</numero>
+        </cliente>
+        <vivienda id= "">
+            <coste>Cien años de soledad</coste>
+            <resumen>1967-06-05</resumen>
+            <plazo>1967-06-05</plazo>
+        </vivienda>
+    </sede>
+
+
+    <sede id="1">
+        <empleado></empleado>
+        <cliente codigo="">
+            <fecha>Gabriel García Márquez</fecha>
+            <descripcion>978-3-16-148410-0</descripcion>
+            <numero>Novela</numero>
+        </cliente>
+        <vivienda id= "">
+            <coste>Cien años de soledad</coste>
+            <resumen>1967-06-05</resumen>
+            <plazo>1967-06-05</plazo>
+        </vivienda>
+    </sede>
+
+    <sede id="1">
+        <empleado></empleado>
+        <cliente codigo="">
+            <fecha>Gabriel García Márquez</fecha>
+            <descripcion>978-3-16-148410-0</descripcion>
+            <numero>Novela</numero>
+        </cliente>
+        <vivienda id= "">
+            <coste>Cien años de soledad</coste>
+            <resumen>1967-06-05</resumen>
+            <plazo>1967-06-05</plazo>
+        </vivienda>
+    </sede>
+
+
+    <sede id="1">
+        <empleado></empleado>
+        <cliente codigo="">
+            <fecha>Gabriel García Márquez</fecha>
+            <descripcion>978-3-16-148410-0</descripcion>
+            <numero>Novela</numero>
+        </cliente>
+        <vivienda id= "">
+            <coste>Cien años de soledad</coste>
+            <resumen>1967-06-05</resumen>
+            <plazo>1967-06-05</plazo>
+        </vivienda>
+    </sede>
+
+</clientes>
