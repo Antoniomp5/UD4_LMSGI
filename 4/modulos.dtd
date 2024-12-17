@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Modulos (modulo)>
+<!ELEMENT modulo (nombre, tipo, contenido, uds)>
+<!ATTLIST modulo id CDATA #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT contenido (uds)>
+<!ELEMENT uds (#PCDATA)>

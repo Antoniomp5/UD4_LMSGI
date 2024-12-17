@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreria SYSTEM "modulos.dtd">
+<Modulos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="modulos.xsd">
+    <modulo id="1">
+        <nombre></nombre>
+        <tipo></tipo>
+        <contenido>
+            <uds></uds>
+       </contenido>
+    </modulo>
+</Modulos>

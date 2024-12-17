@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs= "http://www.w3.org/2001/XMLSchema" version="0.1" xml:lang="es">
+    <xs:element name="BDalumnos">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name = "Alumnos" maxOccurs = "unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name = "alumno" type = "xs:string"/>
+                            <xs:element name = "nombre" type = "xs:string"/>
+                            <xs:element name = "edad" type = "xs:string"/>
+                            <xs:element name = "nif" type = "xs:string"/>
+                            <xs:element name = "apto" type = "xs:string"/>
+                            <xs:element name = "observaciones" type = "xs:string"/>
+                            <xs:element name = "IP-MAC" type = "xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:sequence>
+            </complexType>
+        </xs:element>
+</xs:schema>

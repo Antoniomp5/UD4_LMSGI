@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreria SYSTEM "Clientes.dtd">
+<clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="clientes.xsd">
+    <sede id="1">
+        <empleado></empleado>
+        <fecha></fecha>
+        <cliente></cliente>
+        <vivienda>
+            <descripcion></descripcion>
+            <numero></numero>
+        </vivienda>
+        <coste></coste>
+        <resumen></resumen>
+        <plazo></plazo>
+    </sede>
+</clientes>
+

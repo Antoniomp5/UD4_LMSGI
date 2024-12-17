@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Alumnos (Alumno)>
+<!ELEMENT Alumno (nombre, edad, nif, apto, observaciones, IP-MAC)>
+<!ATTLIST Alumno id CDATA #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT edad(#PCDATA)>
+<!ELEMENT nif (#PCDATA)>
+<!ELEMENT apto (#PCDATA)>
+<!ELEMENT observaciones (#PCDATA)>
+<!ELEMENT IP-MAC (#PCDATA)>

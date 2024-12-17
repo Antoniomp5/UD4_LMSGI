@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreria SYSTEM "alumnos.dtd">
+<Alumnos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="alumnos.xsd">
+    <Alumno id="1">
+        <nombre></nombre>
+        <edad></edad>
+        <nif></nif>
+        <apto></apto>
+        <observaciones></observaciones>
+        <IP-MAC></IP-MAC>
+    </Alumno>
+</Alumnos>
